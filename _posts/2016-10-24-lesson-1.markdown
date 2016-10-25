@@ -1,0 +1,11 @@
+---
+layout: post
+title: " Lesson 1... details matter"
+date: 2016-10-24 19:44:00 -0600
+categories: lessons
+---
+#Lesson 1... details matter
+
+So in building out my Jekyll blog, I learned that details really do matter. When I was typing out the initial documentation for a post I put the date in, however I neglected to include the twenty four hour time and time zone. I'm not sure if this actually mattered, but I do know that my post didn't load until I added that. I was pretty surprised about this, but I'm sure there are more surprises along the way.
+
+I'll be keeping this up to date as I go and using this as an opportunity to test out any new coding skills I pick up along the way.
